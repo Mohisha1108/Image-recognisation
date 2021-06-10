@@ -1,0 +1,22 @@
+body
+{
+    background-color: lightcoral;
+    color: darkred;
+}
+.heading
+{
+    font-size: 25px;
+    width: 80%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.name_of_objects, #result_object_name, #resut_object_accuracy
+{
+    font-size: 20px;
+    color: white;
+}
+#camera
+{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+} 
